@@ -57,6 +57,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 -Bu projede, sistemde yapılacak riskli işlemler öncesinde snapshot kullanımını test ettim.İlk görselde, herhangi bir işlem yapmadan önce sorunsuz ve stabil çalışan sistemin snapshot’unu aldım. Daha sonra sistem üzerinde şüpheli bir işlem gerçekleştirdim. İkinci görselde görüldüğü üzere bu işlem sonucunda sistemde siyah ekran hatası oluştu.Bu durum karşısında Snapshot Manager üzerinden daha önce aldığım snapshot’a geri dönerek sistemi kısa sürede eski, sorunsuz haline getirdim.Snapshot’lar, bu tür hatalı veya riskli işlemler sonrasında sistemi hızlıca geri yüklemek için oldukça etkili bir kurtarma yöntemidir. Ancak snapshot kullanımında zamanlama ve yönetimin doğru yapılması büyük önem taşır.
 </sub>
 <br/>
