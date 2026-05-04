@@ -1,5 +1,5 @@
 <h3>Virtual Machine Settings (Sanal Makine Ayarları)</h3>
-<img src="screenshots/1_virtual_machine_settings.png" width="250" height="180"  align="left" />
+<img src="screenshots/1_virtual_machine_settings.png" width="250" height="250"  align="left" />
 <sub>
 -Sanal makinemde performans ve verimliliği dengelemek adına 4GB RAM ve 2 çekirdekli CPU yapılandırması tercih ettim. Depolama tarafında, fiziksel disk alanını optimize etmek için 50GB kapasiteli Dinamik Genişleyen disk yapısını kullandım. Ağ mimarisinde VMnet8 (NAT) modunu seçerek, makineyi dış ağ trafiğinden izole ettim ihtiyaç duyulduğunda kontrollü servis erişimi sağlamak için port yönlendirme mantığını temel aldım.
 </sub>
