@@ -1,3 +1,17 @@
+<p>
+-Bu proje, sanallaştırma teknolojileri kullanılarak bir sistemin kurulumu, yönetimi ve optimize edilmesi süreçlerini kapsamlı şekilde ele almak amacıyla hazırlanmıştır. Proje kapsamında bir sanal makine ortamı oluşturularak, sistem kaynaklarının verimli kullanımı, disk yönetimi, snapshot mekanizmaları, klonlama işlemleri ve sanal ağ yapılandırmaları gibi temel konular uygulamalı olarak gerçekleştirilmiştir.Ayrıca, farklı ağ türleri (NAT, Bridge, Host-Only) kullanılarak izolasyon ve erişim senaryoları test edilmiş, sistem taşınabilirliğini sağlamak adına export ve import işlemleri uygulanmıştır. Bu çalışma, gerçek dünya IT senaryolarına uygun şekilde, sistem yönetimi ve ağ yapılandırma becerilerini geliştirmeyi hedeflemektedir.
+<br/>
+<br/>
+  
+-This project was developed to comprehensively explore the setup, management, and optimization of systems using virtualization technologies. Within the scope of the project, a virtual machine environment was created, and key operations such as resource allocation, disk management, snapshot usage, cloning, and virtual network configuration were implemented in a practical manner.Additionally, different network types (NAT, Bridge, Host-Only) were configured to test isolation and accessibility scenarios. Export and import operations were also performed to ensure system portability. This project aims to simulate real-world IT scenarios and enhance skills in system administration and network configuration.
+</p>
+
+
+
+
+
+
+
 <h3>Virtual Machine Settings (Sanal Makine Ayarları)</h3>
 <img src="screenshots/1_virtual_machine_settings.png" width="250" height="250"  align="left" />
 <sub>
