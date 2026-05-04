@@ -116,6 +116,8 @@ Internal network sadece sanal makinelerin birbirleriyle iletişim kurmasına izi
 Son olarak Custom network, VMware üzerinde ihtiyaca göre özel ağ senaryoları oluşturulmasını sağlar. Kullanım amacına göre NAT, bridge veya izole yapıların özelleştirilmiş kombinasyonları oluşturulabilir.
 </sub>
 <br/>
+<br/>
+<br/>
 <sub>
 -Virtualization networks are used to enable communication between virtual machines (VMs), host systems, and LAN environments. Different network types provide different levels of access and isolation depending on the scenario.
 In a NAT (Network Address Translation) configuration, virtual machines can communicate with external networks, but external systems cannot directly access the VMs. If access is required from the host or LAN to the VM, port forwarding is used. This setup helps protect the virtual machine from direct external access.
