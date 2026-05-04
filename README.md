@@ -80,6 +80,12 @@
 <img src="screenshots/13_virtual_machine_export2.png" width="233" height="180"  align="left" />
 <img src="screenshots/14_virtual_machine_import1.png" width="233" height="180" align="left" />
 <img src="screenshots/15_virtual_machine_import2.png" width="233" height="180"  align="left" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <sub>
 -Bu aşamada, ilk iki görselde export (dışa aktarma), son iki görselde ise import (içe aktarma) işlemlerini gerçekleştirdim.Export işlemini yapmamın amacı, oluşturduğum sanal makineyi farklı platformlara veya ortamlara kolayca taşıyabilmek ve kullanılabilir hale getirmektir. Bu sayede aynı sistemi yeniden kurmaya gerek kalmadan başka ortamlarda da çalıştırmak mümkün olmaktadır.
 Import işlemi ise export edilen sanal makinenin farklı bir platforma veya ortama yeniden kurulmasını sağlar. Bu yöntem, sistem taşınabilirliği ve hızlı kurulum açısından büyük avantaj sunar.
