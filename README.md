@@ -31,7 +31,6 @@
 
 <h3>SnapShots</h3>
 <img src="screenshots/4_snapshot1.png" width="485" height="300"  align="left" />
-----
 <img src="screenshots/5_snapshot2.png" width="485" height="300"  align="left" />
 <br/>
 <br/>
@@ -124,6 +123,9 @@
 <br/>
 <br/>
 <sub>
+<br/>
+<br/>
+<br/>
 -Bu aşamada, ilk iki görselde export (dışa aktarma), son iki görselde ise import (içe aktarma) işlemlerini gerçekleştirdim.Export işlemini yapmamın amacı, oluşturduğum sanal makineyi farklı platformlara veya ortamlara kolayca taşıyabilmek ve kullanılabilir hale getirmektir. Bu sayede aynı sistemi yeniden kurmaya gerek kalmadan başka ortamlarda da çalıştırmak mümkün olmaktadır.
 Import işlemi ise export edilen sanal makinenin farklı bir platforma veya ortama yeniden kurulmasını sağlar. Bu yöntem, sistem taşınabilirliği ve hızlı kurulum açısından büyük avantaj sunar.
 </sub>
