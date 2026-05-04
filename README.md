@@ -14,8 +14,8 @@
 
 
 <h3>Disk Adding And Expanding (Disk Ekleme Ve Genişletme) </h3>
-<img src="screenshots/2_Disk_befor.png" width="250" height="180"  align="left" />
-<img src="screenshots/3_Disk_after.png" width="250" height="180"  align="left" />
+<img src="screenshots/2_Disk_befor.png" width="466" height="180"  align="left" />
+<img src="screenshots/3_Disk_after.png" width="466" height="180"  align="left" />
 <sub>
 -Projede sanal makine üzerinde disk genişletme ve yeni disk ekleme işlemleri gerçekleştirdim.İlk görselde diskin işlem yapılmadan önceki hali yer almaktadır. İkinci görselde ise mevcut diski 30 GB genişlettim. Bu işlemi yapma sebebim, disk alanının yetersiz kalması ve aynı disk üzerinde çalışmaya devam edecek olmamdı.Daha sonra sisteme 50 GB boyutunda yeni bir disk ekledim. Bu diski farklı verileri depolamak için kullanarak ana sistem diskinde oluşabilecek doluluk sorunlarının önüne geçmeyi hedefledim.
 </sub>
