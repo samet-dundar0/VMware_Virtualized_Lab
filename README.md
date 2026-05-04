@@ -177,10 +177,10 @@ Finally, a Custom network allows users to create tailored network configurations
 <br/>
 <br/>
 <br/>
-<img src="screenshots/16_virtualization_networks1.png" width="233" height="180"  align="left" />
-<img src="screenshots/17_virtualization_networks2.png" width="233" height="180" align="left" />
-<img src="screenshots/18_virtualization_networks3.png" width="233" height="180"  align="left" />
-<img src="screenshots/19_virtualization_networks4.png" width="233" height="180" align="left" />
+<img src="screenshots/16_virtualization_networks1.png" width="485" height="300"  align="left" />
+<img src="screenshots/17_virtualization_networks2.png" width="485" height="300" align="left" />
+<img src="screenshots/18_virtualization_networks3.png" width="485" height="300"  align="left" />
+<img src="screenshots/19_virtualization_networks4.png" width="485" height="300" align="left" />
 <sub>
 -Bu aşamada farklı sanal makineler için farklı network türleri yapılandırdım. İlk Windows 11 sanal makinemi Bridge, klon makineyi NAT, import ettiğim makineyi ise Host-Only olarak ayarladım.
 Bridge olarak yapılandırdığım sanal makine, host sistemimin network’üne dahil oldu ve host ile aynı ağ yapısını kullanarak doğrudan iletişim kurabildi. Bu sayede host makineye ping atarak bağlantıyı doğruladım.NAT olarak ayarladığım sanal makine, VMware tarafından otomatik olarak atanan özel bir IP adresi aldı ve dış ağ ile NAT üzerinden iletişim kurabildi.Host-Only olarak yapılandırdığım sanal makine ise yalnızca host ve diğer sanal makineler arasında iletişim kurabilecek şekilde izole bir ağda çalışmaktadır.
