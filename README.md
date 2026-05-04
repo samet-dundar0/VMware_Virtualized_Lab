@@ -107,6 +107,7 @@ An Internal network allows communication only between virtual machines. The host
 Finally, a Custom network allows users to create tailored network configurations in VMware based on specific requirements. It can be used to design customized combinations of NAT, bridge, or isolated network structures depending on the scenario.
 </sub>
 <br/>
+<br/>
 <img src="screenshots/16_virtualization_networks1.png" width="233" height="180"  align="left" />
 <img src="screenshots/17_virtualization_networks2.png" width="233" height="180" align="left" />
 <img src="screenshots/18_virtualization_networks3.png" width="233" height="180"  align="left" />
