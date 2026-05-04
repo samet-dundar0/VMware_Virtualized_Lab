@@ -86,7 +86,15 @@
 <img src="screenshots/11_virtual_machine_cloning4.png" width="485" height="300" align="left" />
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <sub>
+<br/>
+<br/>
+<br/>
+<br/>
 -Bu aşamada, kurduğum sanal makinenin klonunu oluşturdum. Bunun temel sebebi, aynı sistemi yeniden kurmanın zaman kaybı olmasıdır.Klonlama işlemi sayesinde mevcut sistemin birebir kopyasını alarak, bu kopya üzerinde istediğim işlemleri gerçekleştirebildim. Bu yöntem, hem zaman tasarrufu sağlar hem de ana sistemi riske atmadan test ve geliştirme yapma imkânı sunar.
 </sub>
 <br/>
