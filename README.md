@@ -92,10 +92,10 @@
 
 
 <h3>Virtual Machine Export And İmport (Sanal Makine Dışa Aktarma ve İçeri Aktarma)</h3>
-<img src="screenshots/12_virtual_machine_export1.png" width="233" height="180"  align="left" />
-<img src="screenshots/13_virtual_machine_export2.png" width="233" height="180"  align="left" />
-<img src="screenshots/14_virtual_machine_import1.png" width="233" height="180" align="left" />
-<img src="screenshots/15_virtual_machine_import2.png" width="233" height="180"  align="left" />
+<img src="screenshots/12_virtual_machine_export1.png" width="485" height="300"  align="left" />
+<img src="screenshots/13_virtual_machine_export2.png" width="485" height="300"  align="left" />
+<img src="screenshots/14_virtual_machine_import1.png" width="485" height="300" align="left" />
+<img src="screenshots/15_virtual_machine_import2.png" width="485" height="300"  align="left" />
 <br/>
 <br/>
 <br/>
