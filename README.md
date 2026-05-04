@@ -30,10 +30,10 @@
 
 
 <h3>SnapShots</h3>
-<img src="screenshots/4_snapshot1.png" width="233"  align="left" />
-<img src="screenshots/5_snapshot2.png" width="233"  align="left" />
-<img src="screenshots/6_snapshot3.png" width="233"  align="left" />
-<img src="screenshots/7_snapshot4.png" width="233"  align="left" />
+<img src="screenshots/4_snapshot1.png" width="233" height="180" align="left" />
+<img src="screenshots/5_snapshot2.png" width="233" height="180" align="left" />
+<img src="screenshots/6_snapshot3.png" width="233" height="180" align="left" />
+<img src="screenshots/7_snapshot4.png" width="233" height="180" align="left" />
 <sub>
 -Bu projede, sistemde yapılacak riskli işlemler öncesinde snapshot kullanımını test ettim.İlk görselde, herhangi bir işlem yapmadan önce sorunsuz ve stabil çalışan sistemin snapshot’unu aldım. Daha sonra sistem üzerinde şüpheli bir işlem gerçekleştirdim. İkinci görselde görüldüğü üzere bu işlem sonucunda sistemde siyah ekran hatası oluştu.Bu durum karşısında Snapshot Manager üzerinden daha önce aldığım snapshot’a geri dönerek sistemi kısa sürede eski, sorunsuz haline getirdim.Snapshot’lar, bu tür hatalı veya riskli işlemler sonrasında sistemi hızlıca geri yüklemek için oldukça etkili bir kurtarma yöntemidir. Ancak snapshot kullanımında zamanlama ve yönetimin doğru yapılması büyük önem taşır.
 </sub>
@@ -50,10 +50,10 @@
 
 
 <h3>Virtual Machine Cloning (Sanal Makine Klonlama)</h3>
-<img src="screenshots/8_virtual_machine_cloning1.png" width="233"  align="left" />
-<img src="screenshots/9_virtual_machine_cloning2.png" width="233"  align="left" />
-<img src="screenshots/10_virtual_machine_cloning3.png" width="233"  align="left" />
-<img src="screenshots/11_virtual_machine_cloning4.png" width="233"  align="left" />
+<img src="screenshots/8_virtual_machine_cloning1.png" width="233" height="180"  align="left" />
+<img src="screenshots/9_virtual_machine_cloning2.png" width="233" height="180"  align="left" />
+<img src="screenshots/10_virtual_machine_cloning3.png" width="233" height="180" align="left" />
+<img src="screenshots/11_virtual_machine_cloning4.png" width="233" height="180" align="left" />
 <sub>
 -Bu aşamada, kurduğum sanal makinenin klonunu oluşturdum. Bunun temel sebebi, aynı sistemi yeniden kurmanın zaman kaybı olmasıdır.Klonlama işlemi sayesinde mevcut sistemin birebir kopyasını alarak, bu kopya üzerinde istediğim işlemleri gerçekleştirebildim. Bu yöntem, hem zaman tasarrufu sağlar hem de ana sistemi riske atmadan test ve geliştirme yapma imkânı sunar.
 </sub>
@@ -68,10 +68,10 @@
 
 
 <h3>Virtual Machine Export And İmport (Sanal Makine Dışa Aktarma ve İçeri Aktarma)</h3>
-<img src="screenshots/12_virtual_machine_export1.png" width="233"  align="left" />
-<img src="screenshots/13_virtual_machine_export2.png" width="233"  align="left" />
-<img src="screenshots/14_virtual_machine_import1.png" width="233"  align="left" />
-<img src="screenshots/15_virtual_machine_import2.png" width="233"  align="left" />
+<img src="screenshots/12_virtual_machine_export1.png" width="233" height="180"  align="left" />
+<img src="screenshots/13_virtual_machine_export2.png" width="233" height="180"  align="left" />
+<img src="screenshots/14_virtual_machine_import1.png" width="233" height="180" align="left" />
+<img src="screenshots/15_virtual_machine_import2.png" width="233" height="180"  align="left" />
 <sub>
 -Bu aşamada, ilk iki görselde export (dışa aktarma), son iki görselde ise import (içe aktarma) işlemlerini gerçekleştirdim.Export işlemini yapmamın amacı, oluşturduğum sanal makineyi farklı platformlara veya ortamlara kolayca taşıyabilmek ve kullanılabilir hale getirmektir. Bu sayede aynı sistemi yeniden kurmaya gerek kalmadan başka ortamlarda da çalıştırmak mümkün olmaktadır.
 Import işlemi ise export edilen sanal makinenin farklı bir platforma veya ortama yeniden kurulmasını sağlar. Bu yöntem, sistem taşınabilirliği ve hızlı kurulum açısından büyük avantaj sunar.
@@ -107,10 +107,10 @@ An Internal network allows communication only between virtual machines. The host
 Finally, a Custom network allows users to create tailored network configurations in VMware based on specific requirements. It can be used to design customized combinations of NAT, bridge, or isolated network structures depending on the scenario.
 </sub>
 <br/>
-<img src="screenshots/16_virtualization_networks1.png" width="233"  align="left" />
-<img src="screenshots/17_virtualization_networks2.png" width="233"  align="left" />
-<img src="screenshots/18_virtualization_networks3.png" width="233"  align="left" />
-<img src="screenshots/19_virtualization_networks4.png" width="233"  align="left" />
+<img src="screenshots/16_virtualization_networks1.png" width="233" height="180"  align="left" />
+<img src="screenshots/17_virtualization_networks2.png" width="233" height="180" align="left" />
+<img src="screenshots/18_virtualization_networks3.png" width="233" height="180"  align="left" />
+<img src="screenshots/19_virtualization_networks4.png" width="233" height="180" align="left" />
 <sub>
 -Bu aşamada farklı sanal makineler için farklı network türleri yapılandırdım. İlk Windows 11 sanal makinemi Bridge, klon makineyi NAT, import ettiğim makineyi ise Host-Only olarak ayarladım.
 Bridge olarak yapılandırdığım sanal makine, host sistemimin network’üne dahil oldu ve host ile aynı ağ yapısını kullanarak doğrudan iletişim kurabildi. Bu sayede host makineye ping atarak bağlantıyı doğruladım.NAT olarak ayarladığım sanal makine, VMware tarafından otomatik olarak atanan özel bir IP adresi aldı ve dış ağ ile NAT üzerinden iletişim kurabildi.Host-Only olarak yapılandırdığım sanal makine ise yalnızca host ve diğer sanal makineler arasında iletişim kurabilecek şekilde izole bir ağda çalışmaktadır.
