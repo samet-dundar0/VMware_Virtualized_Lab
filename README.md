@@ -31,6 +31,7 @@
 
 <h3>SnapShots</h3>
 <img src="screenshots/4_snapshot1.png" width="485" height="300"  align="left" />
+----
 <img src="screenshots/5_snapshot2.png" width="485" height="300"  align="left" />
 <br/>
 <br/>
