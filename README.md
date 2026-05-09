@@ -8,7 +8,7 @@
 
 ---
 
-<h3>⚙️ Virtual Machine Settings / Sanal Makine Ayarları</h3>
+<h3>Virtual Machine Settings / Sanal Makine Ayarları</h3>
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 
 ---
 
-<h3>💾 Disk Adding And Expanding / Disk Ekleme Ve Genişletme</h3>
+<h3>Disk Adding And Expanding / Disk Ekleme Ve Genişletme</h3>
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
 
 ---
 
-<h3>📸 Snapshots</h3>
+<h3>Snapshots</h3>
 
 <table>
   <tr>
@@ -92,7 +92,7 @@
 
 ---
 
-<h3>🔁 Virtual Machine Cloning / Sanal Makine Klonlama</h3>
+<h3>Virtual Machine Cloning / Sanal Makine Klonlama</h3>
 
 <table>
   <tr>
@@ -129,7 +129,7 @@
 
 ---
 
-<h3>📦 Virtual Machine Export And Import / Sanal Makine Dışa ve İçeri Aktarma</h3>
+<h3>Virtual Machine Export And Import / Sanal Makine Dışa ve İçeri Aktarma</h3>
 
 <table>
   <tr>
@@ -166,7 +166,7 @@
 
 ---
 
-<h3>🌐 Virtualization Networks / Sanallaştırma Networkleri</h3>
+<h3>Virtualization Networks / Sanallaştırma Networkleri</h3>
 
 <table>
   <tr>
